@@ -1,0 +1,464 @@
+2023-05-16 17:34:19,842 INFO ---Start execute---
+2023-05-16 17:34:19,842 INFO Запрашиваю фото из альбома пользователя VK
+2023-05-16 17:34:19,842 INFO Получаю информацию о фотографиях в альбоме Screenshots_space
+2023-05-16 17:34:20,155 INFO Ищу id альбома по заголовку: `Screenshots_space` и пользователю: `466978455`
+2023-05-16 17:34:20,262 INFO Альбом найден
+2023-05-16 17:34:20,485 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-3.userapi.com/impg/J9Tip1V0hetaCohDAw9k2y2Vn9Rs5bCGaVc5eQ/_5EvGFIlBR0.jpg?size=1680x1050&quality=95&sign=174efaed177158164ed3cacb946f02d4&c_uniq_tag=JK7lcH6nM9Zo14Z2u8QLQiDOKasMh0M8r3f8i6vlkEI&type=album, 1
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-14.userapi.com/impg/HY_G-VBARDFsEv800hI2mLpaRH_Ly13Lut5VBQ/0q2asLHIOPI.jpg?size=1680x1050&quality=95&sign=65e7f69847888d174ae80003f7a2f3fd&c_uniq_tag=_ZN_ujazJoOdf5tki2Qq5tQdd3Ud9ABTiRtC99MOrfM&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-35.userapi.com/impg/m-XWc2pPgfOR1Pju5FQyO9t2tK4nPmQ4LynAFA/G1CzuqSGTbM.jpg?size=1680x1050&quality=95&sign=df5296cb6309b382ad05795687eaf885&c_uniq_tag=CisMzloMV5VkOMXgO2xUlIBPo84KKUhGOa5bZNBCc4I&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-38.userapi.com/impg/NfSQrl9dcdgdOYcHtnknP2ndLpvHsJe_zKLgIQ/OrqOrxKtT_0.jpg?size=1680x1050&quality=95&sign=d5e0d3198ffcf45d6f312a072c2d5b5a&c_uniq_tag=CpV_3KO_Bb1K2JYDWA9urHcgvP75PmQigxMyAtPGlUA&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-7.userapi.com/impg/l68X-dj7_owqK5BpkjohrbASYU6c-EurJzNupA/qgmRtncBa-I.jpg?size=1680x1050&quality=95&sign=e86cda8eb577360e89f793c26b283351&c_uniq_tag=EtLUXPhLDsmOXwXLaahFyzSawKoXXGJo1xp4hehItRM&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-39.userapi.com/impg/KVFddm_9agsxwR7VLykXPNWls29wiRhMGei8Kw/IIQRK3AkzQI.jpg?size=1920x1080&quality=95&sign=29830b9776450589a2c8b50a9492270d&c_uniq_tag=eyK8heJ7K7bcvlp4h2uLf4zDcPrntgwzntL5_Db1E5c&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-59.userapi.com/impg/VUTmMCHT_-VgMeEsjPDZLrnY3YgngIVL1rJu4Q/9CCnc63t2xw.jpg?size=1920x1080&quality=95&sign=44c4c7c448d6f4c909e17dc83460088a&c_uniq_tag=cqa7dl4LSJ-MbO-QA5nt0KAJbgI7gxOW87SlYj7jjOE&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-73.userapi.com/impg/31XMTYbFPLK_XyqXygJDeo8cEL6STdAc4tadGQ/V54UoZzIMhA.jpg?size=1920x1080&quality=95&sign=cea8b78540678a951d54e3d274c5ca3c&c_uniq_tag=kFelPHp1GOG7cmcVeikUJY3L9Pvci1pha05Gq4sN8wA&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-57.userapi.com/impg/JLYMxDYpCF1rBZ8dulH8cSng7t_eeq-3XlJHtw/G-QdQewmwN0.jpg?size=1920x1080&quality=95&sign=37b669e88fdd7abf944d9f4046f05bc0&c_uniq_tag=WmTFscMog019fNvaEs04EcBF059B7em-4CrKobcAmOo&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-64.userapi.com/impg/kkvzTC4MshZnOk4IrJoW4XmwwuJp0PnFZvXQ8g/dVe0s1AOHOQ.jpg?size=1920x1080&quality=95&sign=9e49bb27aff739f740566761797812be&c_uniq_tag=Edn1wKz8Os9QOhpzMr3UqKs4siUHyILos-3XeLemUIs&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-39.userapi.com/impg/Z2ouRSMSsMJITOUCMlDIxtY8XRLxxtpof_zYqQ/r-EJFpXOYwE.jpg?size=1920x1080&quality=95&sign=5e2d5f42b147af4fb9bf7341b7d39c16&c_uniq_tag=gz01kDgIZU4vamuBSUkw2xYSrwK_PaZOrfmeiyMGLFQ&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-16.userapi.com/impg/t8dfJWW0loVLWpSDCIaeQmb3sA-2s8ZUBCe0Ug/U2ffSfhvPwY.jpg?size=1920x1080&quality=95&sign=672570eedc224e1868a91bbba8fef740&c_uniq_tag=P6YYtZKqFzKkc3MHu0TxQ9yCifpocMkPFFQ45CA7TKM&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-70.userapi.com/impg/fJwWV-nAJJnNytQfsQNSceaFD0n1vFp2LlupWA/NnUdnqSXlIM.jpg?size=1920x1080&quality=95&sign=96ba46ab4a13cbd74689cdb75d7c702a&c_uniq_tag=SH7W5z8yxYjKnZhveXp6MI5mS-ALonDqBvIOGnqpw7s&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-76.userapi.com/impg/Tfg3qN2NmM062c2HTJcyQBmCIppe1DeYUQFTJQ/WZDG6ldh-7s.jpg?size=1920x1080&quality=95&sign=259b7aa926c9696879a18bd003c6ea2f&c_uniq_tag=PBFLgZQkvQ1Q5fmyycPe7QjX6ezDSxGPeu_NozzA9Dw&type=album, 0
+2023-05-16 17:34:20,486 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun2-8.userapi.com/impg/Ju2MfR74muydxm8jK7jmEK6ZdcUcB4u1Z5Pfmg/JIbgzb-40xs.jpg?size=1920x1080&quality=95&sign=78573f8e4cfa3fec4d38d9e3e5222301&c_uniq_tag=_YUqdtFGZmy30TIMkY29yBYBf-25IWIld_04IaU-K64&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-33.userapi.com/impg/2qFonJQ7Ey6ln9qk9jvl7QC2ebN3MgJu9PNcBQ/-ZXvlvu0rIc.jpg?size=1920x1080&quality=95&sign=1eaf03bf63472d3f9bf5d3c342e67adb&c_uniq_tag=QvlabKfab_tXpI-jy1j9fQrzt9YELv0_8-VI4SwRmp8&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-66.userapi.com/impg/57joAsd1EmuQD7lDJJiSX3NP6n5VLTB1zYhYdA/2sDrhLsFw34.jpg?size=1920x1080&quality=95&sign=e5fd45af2cd700cc07041fc5e0cbb2b3&c_uniq_tag=SdorEo03-fQTsYcBEBbAnUYy0Gy-fyh7JfR_YVURwJ4&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-56.userapi.com/impg/dk5c1CFdIG77bWKMuOfgU9gWjEx3YBEVqG-6mA/0Wac152hOy4.jpg?size=1920x1080&quality=95&sign=fb3dba739ac78e2f39089c1f84eff740&c_uniq_tag=_ITuLSpqOXv87-KntNusJRskBi1EHV0FV2bNO-HcVlM&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-18.userapi.com/impg/ZaIopiqpwRS_vC6EVlW4ec7GqAVaUQS8GOBOTQ/iaAVujND28M.jpg?size=1920x1080&quality=95&sign=70afc57f46c3697826f762d8b54d31fd&c_uniq_tag=owJLumdq27RJp6-hvOIHKKQwx_0eERAeIVHIAyGlWT8&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-22.userapi.com/impg/sBFZEDpKpiW8gkSQSc7pcGZOP_91I7_9BmJlNg/Wgx60dbMjVY.jpg?size=1920x1080&quality=95&sign=c082ebc57e324345c134671e51bca7e2&c_uniq_tag=GdAyuvd0lT4S-fH4yvKnvO3o7AzZ7dUVpp7p0TEhcvM&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-79.userapi.com/impg/t631FPYgXi1EO_jPN8-mJRGikQPFQDMW3QdCuw/GLIJFnqQYf0.jpg?size=1920x1080&quality=95&sign=891533f7684cdcd52b685c18121a4a59&c_uniq_tag=dvhWZz2yUQsYT8Aeio_r05huAhsRZSM5_uLM-DMWtnQ&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-8.userapi.com/impg/Il86_Oz1JyCGLepRe4o_sq6KhLo_YDb59R83Yg/sj8nxM_O7ho.jpg?size=1920x1080&quality=95&sign=b3031a3e0897089ace5766f2220934dc&c_uniq_tag=4A3DTDUchDz3OhuhTLGip2O1Su_q68lMDjiKGnsUHmA&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-46.userapi.com/impg/aCOrIxStzqhEKj7U3OFQWnNXRgqJy3xeaNAOQg/jPzY88EDcw4.jpg?size=1920x1080&quality=95&sign=dd4e63a774918d17df93f06dcb39e0a3&c_uniq_tag=sHYWQLVwZ9s3P00F4h6MNIoAbhVTn4F1zzof_FfSBMw&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-16.userapi.com/impg/dGCcWIzYKCF38Rc2mUwYUMxLIIZf94o1xhRXwA/7LAjrFLQ9Xg.jpg?size=1920x1163&quality=95&sign=6dce2c2d4e02ce067d5c871e0fdccdf9&c_uniq_tag=q-EqYdNcYS9SRjCmomUOU8EaBhA6ppJLa-zp1MfQY9U&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-73.userapi.com/impg/-4Bqju1jEcuksRru_U6kuIXjE4MU4Hy0fy39MQ/OrAULpxHssc.jpg?size=1920x1200&quality=95&sign=9ec41ea0b37bc2fe893b36de9062b24a&c_uniq_tag=jnwmZmYiT1x9nzsIRhpCs6wgjRDDW-iCOwg8_alzvgc&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-73.userapi.com/impg/lJ8moSs-wF3R9BjeslUTVbpEPwADdtEOkJYCNQ/wZD2uHRQx-Q.jpg?size=1920x1200&quality=95&sign=2c93818c113a52d365e325c35474810a&c_uniq_tag=DDad7BdoJob8rIWLkfabliH3B-M2sJ_5i-5utnVZbo4&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-15.userapi.com/impg/MsYutSOVqDRKQ12YRNOmtu_H__XdSCc2oYz2ag/Pl9g4AL1yB8.jpg?size=1920x1200&quality=95&sign=3d90910ab2b075a01f54d8320fdef7eb&c_uniq_tag=qhuktLYi31fzEZr_rLBusZbQ--E8cHsjlRilMU8Jr-I&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-7.userapi.com/impg/I8JD9NQdGGofYipm2KESYq-OeV4dZMLoTAE3tA/nM6Rz07zgUA.jpg?size=1920x1200&quality=95&sign=0f24cded9f3aa456d4ff59a1a7af6463&c_uniq_tag=ShCdyuQn5I9ZJKrz3dbXT-kQ1OYqW-RxgaVDXJFRTqM&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-53.userapi.com/impg/2aaU3KYsXD0vmH13Z_E5qRqb7-kv09bFcdNEqw/YAhF9ZfEOR0.jpg?size=1920x1200&quality=95&sign=d0d883bd9855263411a43fe69aaadcb1&c_uniq_tag=h4fZxFBooDTXaE3oI_VvD-SgGRFK0atpx3Tge6inzeY&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-8.userapi.com/impg/4Z7B2-VHBeoRfMqwsZi00IEJ3soNpc5dG-TQgQ/VjS02V0L_ZU.jpg?size=1920x1200&quality=95&sign=eb24492b5760f12a8e7a8565cf92928c&c_uniq_tag=WLG_yYPNR91AsxonpJeHQcbdMsgnNZbLqneMO7r06X8&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-78.userapi.com/impg/9coN331qXzMKLK2fQJ3h71Wnw0QHYNfglDOZYQ/k5QZAb3Lr54.jpg?size=1920x1200&quality=95&sign=e4fb22b1fb20fcd65e99f3eec0d8cc07&c_uniq_tag=cNTVsmn7PbtyajLWAgev887xVOXF7dUlq4CYZmIz__E&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-25.userapi.com/impg/w2QjZrWnc6o6u8PD9hFWOZ-9U1lzLXkBHa2YyA/6PjNlwtz49c.jpg?size=1920x1200&quality=95&sign=fa98b2a3bbecd9aae6026e25a85d70e7&c_uniq_tag=DLFjngRaYVCPI5qRXB8vOl_yO2dFmoF5uffpcGrdCf4&type=album, 0
+2023-05-16 17:34:20,487 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-13.userapi.com/impg/RjHgLCVryhDE28Q1ZkZeg0d1_5LkErIr3F6o_A/953FC2hx0Tw.jpg?size=1920x1200&quality=95&sign=40fcfc8621bb95e256f2f337283b3949&c_uniq_tag=Dskwlhe2stNjT_a3rgmHQwoo2-axOHWT1NwxLZyFMQM&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-7.userapi.com/impg/mqptKTrA16Wji7SKEiEBBk3uWdOW7grVxTeefg/sWbwA-wNeG8.jpg?size=1920x1200&quality=95&sign=cc5b4fdb399b909389fcd860b17fad27&c_uniq_tag=Qnq2QAmRixA63QfIHvBjvImLnTJVqYDBRkNg8C0K8LY&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-69.userapi.com/impg/arII0pAu6KuQHUBETZbgWeaJTc3gImNGy1iS-A/P9ReUfmYxzU.jpg?size=1920x1200&quality=95&sign=3713b4dbb5c7e29287923388340e8d76&c_uniq_tag=EQ3PqYdx21p2OFc0ALkR-YbZc86L53Q9979cVcSAW-Q&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-15.userapi.com/impg/S78Wp3gtpB2Xu6QPXU-Wnwwhi_nbftmKGp6MEA/wGfszJGyJ-o.jpg?size=1920x1200&quality=95&sign=df5fb44047f775dc2cf2cfb920f92d68&c_uniq_tag=Nl3Mug1P4QBRgpIfZF5HRTUpydv5IAqsr1eZ2bBiJ4Q&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-35.userapi.com/impg/nOEReGM8FX0FG7aAR3gicak3dBonWqDl4pv6bQ/ciHmFNh2qOQ.jpg?size=1920x1200&quality=95&sign=e3c27c32817d1fe4db152eeb41fb3d7b&c_uniq_tag=37yswfL3BZk_tMvy0TU_xMX0HwOfRajkmm6utbUc6yI&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-21.userapi.com/impg/oVZaYQNJiwMPJbxoyXEc6NFKlFZCZRLRuxvBuQ/njf4pA2uUpM.jpg?size=1920x1200&quality=95&sign=4ded603acd4861181e11c579bb9a9ce9&c_uniq_tag=k-FoWDaSK9zMg5mif6YKv9KTMcO1dDmbt7zyrU8rHjM&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-36.userapi.com/impg/bNp0SDLmZsRMoofzV5lEcCJQ-iOa9wTi18lyBg/evrv17KD4jg.jpg?size=1920x1200&quality=95&sign=29024b755b09db2bd04ed5c89cf7e0c8&c_uniq_tag=RYlCJPr3foBLtXEEDpqwWMI_Z4V1Xymd_H1ymqqpPZA&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-31.userapi.com/impg/PmFQESjJVCEZGQGb4tDpoyqgr8f8c1cIjWltvw/ygyo_-EbrDg.jpg?size=1920x1200&quality=95&sign=d1afc5213aa9cecbcc335b714aaf0742&c_uniq_tag=8w9r9x3lW0Er1s_yRnp1MVSfqF2TbhgbYRfSyU87SwM&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-17.userapi.com/impg/TDkNuO-rY5CNeJvOQn2YMLrJzEraDxdwo7sV1w/_N-y7miMSXs.jpg?size=1920x1200&quality=95&sign=efe0b336f80781bb33080a6a4770facd&c_uniq_tag=_1dIudn7p5Pz77Mehe28s0YrX-yUVDE8iYUAeBe_FxY&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-63.userapi.com/impg/qXE65alLLatWVV7cv1IPubAKZlt9T8Z6rbz1cA/wj7XDdQCmeQ.jpg?size=1920x1200&quality=95&sign=fa485f1149a74677057ac2b8958fefeb&c_uniq_tag=1T9RV4msYQQXXqQ6M98gfQjCCql7VEtHTM8nOkzycp0&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-14.userapi.com/impg/chux_cu3FpXetIe9mK3BnoJFQ73kraOylbrO8Q/yS2n7JBaFJ4.jpg?size=1920x1200&quality=95&sign=2fa4654f40df600903bd528740963012&c_uniq_tag=oFfoqjeom17TGAiOXvH1-lgYdHLvP_l-3VBfM_NHFcA&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-22.userapi.com/impg/GC1D5RGY_IbUCxT3ljJu2m2f8LFeHjMj9Dfiww/cO5j2z0K7Wg.jpg?size=1920x1200&quality=95&sign=8fdc456180b8b4d350f509f4c52bb272&c_uniq_tag=e73O_-wh8bP00UnZsf36k9cB70sJTd22T_5ZMIbNj-4&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-64.userapi.com/impg/Sutpvhd6QUSbVpyTVobVCxbRvpMaALl9d6C3eA/0rK1E2bMBoE.jpg?size=1920x1200&quality=95&sign=6fae734134a49f6571d07bbdaa8a96d4&c_uniq_tag=oyik2E053SnPN68VLMQ5WP8QsAFB6ZstQswParTQHMA&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-42.userapi.com/impg/o32vAY5ZE478FIgGtudTfWjfd1ls9LmifgEOqw/C-rdlL6f1-c.jpg?size=1920x1200&quality=95&sign=1addc2f19ea66dc56c23b8715c43e3ca&c_uniq_tag=Fm7kG6YfFd8WK7fpKgN3zGxEQdWYLfy79VTtwbR0e-0&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-51.userapi.com/impg/UyFswtrY_KGZsSLDprSt4wCAJ6kTv5jUVQLftg/QmDQmc7Gtec.jpg?size=1920x1200&quality=95&sign=821aac7c4605b4711660252a9ca45c50&c_uniq_tag=hoWQWnWmhIjT4sx8fYi5c5A8RxhSKxVLXCSOdyjBeEg&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-66.userapi.com/impg/TNXaYxkqxuBGG0_VlQliFC0rFj3nJiZ0pR_bCQ/11qr0TEIu8A.jpg?size=1920x1200&quality=95&sign=aa6d04438057ff1b25e29741251eeac5&c_uniq_tag=v7NQ4MYdhEAf_iTc9_osCzvyUaL62UGD0EpytqMh1qQ&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-53.userapi.com/impg/m2VdSjlzOUvnapoilaswnF6SIVi1EZRaNEQZbg/B89kjyVPdPY.jpg?size=1920x1200&quality=95&sign=40c56b4ef3e6a12bb181616864c71d72&c_uniq_tag=v591qdUiJx7sauoYbZcwxEKyUgD9ajPWDiSfvIQdVwo&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-46.userapi.com/impg/wgRMzdvyjnq_YuCyZgzRWYjLvd79CW5rq9bbiw/5XfbEIwzxhs.jpg?size=1920x1200&quality=95&sign=461bf85bfbdac8ac430d66f3211969e3&c_uniq_tag=obCqNpmoyKWz67f9Tlv6_yLjtnSkTDCnEqxJEqTJuGk&type=album, 0
+2023-05-16 17:34:20,488 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-36.userapi.com/impg/5Kbt3U9toADo69OrOp3cZghwQSpWiVtqTOQEvQ/bpEe_ck7nbc.jpg?size=1920x1200&quality=95&sign=fcfce9b7d29c6be3e6eaa0b7417f07bc&c_uniq_tag=Vvs6pajxnTDYtEBSE_aKxCWTvgZPKakfe-af2L9kU2Y&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-71.userapi.com/impg/s3g1Jbyp4p9EpmsVtqv3IgQkCt6P8bax4aJ-og/u38lRDET5oU.jpg?size=1920x1200&quality=95&sign=f4f95d5728d7e239b0e98e98b164e02e&c_uniq_tag=JN6IuEfTgNy9Pp5fZMsbp0UlDUna8galRTdDOcOQkrI&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-39.userapi.com/impg/F_rQZt0G7hmspthgN4E4KcTvnBSvunpGpT4CFg/EqyuzPzQDRU.jpg?size=1920x1200&quality=95&sign=cad27a503f0ee3fe2039cfb97b85e073&c_uniq_tag=lfq8uP67bVFJ87dDAMq-ByJt_LDM_g7Mr9nBLL-MbQw&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-75.userapi.com/impg/Rn83hsSfhBh1Q9AS_gdVeGrOQlUH0pqV_FxNRA/DOyGIttdHpI.jpg?size=1920x1200&quality=95&sign=eec99372a73244bbae775dcde9b4aa65&c_uniq_tag=0DEbnfwv5w5slqGAbKxtL8jNj7TeGkM7Y3JHTtuQF80&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-79.userapi.com/impg/_Ws3cbuV1CQhkPSkBId4p56_l58pYVHCwrOjXw/8bBCn8ibEpk.jpg?size=1920x1200&quality=95&sign=1c04d870445fe3792c255bab156383fb&c_uniq_tag=H7JY_CQl9Cqet3YdpKN-a2cf0QPB6YErSocrBiOSNGY&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-27.userapi.com/impg/cMdmn8t2zTbh92PeSdOpS-WjqIvGOr2nbqruBg/M-PRMyelTYw.jpg?size=1920x1200&quality=95&sign=0636bd391282c665b9662470e8f868a5&c_uniq_tag=vzRR2HkWkA5-UokQ2XcIcGd8Fn4injPppq4rN2Wk0Zk&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-12.userapi.com/impg/mFGJwZgsOupoHaKs0nEhFU1ufA270ggPUs-rEw/7vLTZn1s-Zw.jpg?size=1920x1200&quality=95&sign=daa869ffd61e9b500553d8af6b4f98b9&c_uniq_tag=LuWolNw7zMMNAiSCiZVS-Y6KKuTGFLI9BfuWM869TM4&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-39.userapi.com/impg/K61sEXkh5PYIzQCZVfg1iF3beqmTWvK2sxU4PA/AmSIkHfD-zs.jpg?size=1920x1200&quality=95&sign=7b7cd6fe70c4078d6b3907bb3e968171&c_uniq_tag=s56PXhEVos2ENsifh4M_qwmZ7GWODmpVRiLXK7gq9vA&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-30.userapi.com/impg/SK_PbWPu_xqTF-JKGtkNMKXrBV76-CxUb4JOOw/s5V44Rz0MDM.jpg?size=1920x1200&quality=95&sign=dbbc04c84d67ebc9d6d1721b344550a2&c_uniq_tag=4J19X3E0M_W62AEC3_IfPbH_jvXOVMUKbTiPcMVOZNs&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-10.userapi.com/impg/8rDngC1x_p948Kf7XGmTrGdpKxHmtU8oBLw52Q/XE8rynBqDIA.jpg?size=1920x1200&quality=95&sign=9b82ed9eec2cbb0bb3b7be3c7a04de02&c_uniq_tag=8pKYJSqpVIAWOAF7TwtMkf71tFmiBraRGNvp5bRdx2I&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-4.userapi.com/impg/kh-HXm1KEfC8rIT8bRGddcQt5MeyqTWvWUNBnA/-Dee0kmtZag.jpg?size=1920x1200&quality=95&sign=97abdd4ff63518548ee271b9336d6527&c_uniq_tag=kL2mS28gHKSdzkLpXpyjcubPC_NSB4cj-gzSYkzQt4o&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-32.userapi.com/impg/fWFjOZroCIbmLSP7dURSvI4GfD5btT6zSvCwHQ/0GKQM_m9KC0.jpg?size=1920x1200&quality=95&sign=26f59e33f9fdfee678fecd44997feaed&c_uniq_tag=UyVJZxDMskDWPes_kyQIWrQ4sk8fXt9LFrc5_Nz5k-Y&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-80.userapi.com/impg/HXLjpwcJ3Md-za4tKhPAr8H39X-dher83Ja2Ng/y7Q1m8I2Zak.jpg?size=1920x1200&quality=95&sign=d70d2bb13ed422208808fb2bbecda7f9&c_uniq_tag=cf6cxUTfgzprKeKQEWR3VnGL-JwAmSptTJUEL0iiFYI&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-74.userapi.com/impg/lM50pMiu9ElFgQlix-uUm96sfjp1vc-97mTrRQ/E3MvNFePaRw.jpg?size=1920x1200&quality=95&sign=d2ad60bd3181ca2328ace9526b56da2a&c_uniq_tag=0D8JnoayRLwQ3QnmZKWFh1qU7-M-myXohIG2B22qu58&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-48.userapi.com/impg/yo-g8t7q_FBMQN5GkYNhgfuIz37MQWzWBEIN4Q/p2WCCvSOZI0.jpg?size=1920x1200&quality=95&sign=f423aac3a7974744e07c580bf09d490f&c_uniq_tag=hNLGvKwlMedtmniWKWGw8_KQUwLeeRmcLIcpzgHG7rs&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-68.userapi.com/impg/FTx2Ak1IyBu8Yq-_xqggn1-2lclxaX_vzeEfYQ/ViWgxiLKgF8.jpg?size=1920x1200&quality=95&sign=511440de092fc3c73ffca20472773b1c&c_uniq_tag=STGPM6jSoy_CRuz-e9bDbTMfnMNnlB-5j484URfZmyA&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-58.userapi.com/impg/mVQvLJET3yPlX6KiZt8Uo5-z5xtYo4Oz2-G3Iw/6VoRu9KPWN4.jpg?size=1920x1200&quality=95&sign=5b26240ce9085d0e7a192d364bc23f4d&c_uniq_tag=fFQadJrtrFRJgmltJivvh5lP7lJ6q2Z7GR3GRpc_c8M&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-49.userapi.com/impg/yQ02F2dMGadOMF3u6QRVOG188bfLIOUmhtVorQ/ga8PfTjqvNA.jpg?size=1920x1200&quality=95&sign=9512e88f96c11ed74aa1f5c3174c0dce&c_uniq_tag=jgGpxYoiqfbypCYkAsQ5MLmiwdFDH9o3Y_-N2Kc4UCg&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-2.userapi.com/impg/n9vg8FEQZkg0892qNNHPgm1O0pEIzRsdNm7Psw/Q1bfOGeghxk.jpg?size=1920x1200&quality=95&sign=3eb8925f4c04fb78142323d3e9906e84&c_uniq_tag=hTQ6onEemF4t-St8ws8hTTEdjJHImsxNADiP9JvBYRU&type=album, 0
+2023-05-16 17:34:20,489 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-70.userapi.com/impg/AkPGlTFxWNW9n8XjzrXFHWmFvHN25MZ_p_54fA/g5bopvaKUk8.jpg?size=1920x1200&quality=95&sign=1b17d9bc0456b5a20d3332505e1e0984&c_uniq_tag=W-ZXNIAXvumdM8LuvWMChykv7se0m6vepn71Mt64ROY&type=album, 0
+2023-05-16 17:34:20,490 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-36.userapi.com/impg/IaSJftdcN5Y7GHj4l9Ve-PJ1m-tDWtMxF00ywA/NygZDMHp2zQ.jpg?size=1920x1200&quality=95&sign=6e4e14836b83f3675124a69b58038d27&c_uniq_tag=nX3jFkM5aQi4TOQ9vmR0VhxtHicF5E82ZP5AxPH9-A4&type=album, 0
+2023-05-16 17:34:20,490 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-27.userapi.com/impg/yOnU4AZJN9FJy_j9_OSuWJjPhuynRqpOu9KCWA/gXa4BPO020w.jpg?size=2560x1440&quality=95&sign=a50403036e1ae79d4845e0f51adf2e90&c_uniq_tag=8jqhIVHhR5oGM8Z37qGG64XlzbiIyta2TW6-N9c_TLI&type=album, 0
+2023-05-16 17:34:20,490 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-79.userapi.com/impg/ISbqA65zhlmOg2IRNefWPSsajhwhVhAiw8EeSQ/RMfXVmi4xgc.jpg?size=2560x1440&quality=95&sign=8e04fd07c512f4112cb4d4f2ed259512&c_uniq_tag=vP023cmiWEAYx0y_77ybU9RCknhYrP34zyAYBii0g30&type=album, 0
+2023-05-16 17:34:20,490 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-79.userapi.com/impg/wP256zxAFH8PR8xCvtqswtJiYCLAFpEOX5LqYg/0dDpqarsnQI.jpg?size=2560x1440&quality=95&sign=8ecc3de75e2b1613c4b45ed54fae149c&c_uniq_tag=Txou38h1WIUtsjQ6zqGcFVki2su9zvmKLO0wKd3Tkgk&type=album, 0
+2023-05-16 17:34:20,490 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-70.userapi.com/impg/_Y8RfK6JGfndNPmaust9KYpEOWdzuCNHapeAgw/lublp35RJV0.jpg?size=2560x1600&quality=95&sign=18182080094a3c5b29e77912266b0c65&c_uniq_tag=TbW81m290FR-HBS87zjgNr3JP-v8LpZfs9uQqMi92Mo&type=album, 0
+2023-05-16 17:34:20,490 INFO Получаю URL фотографии для скачивания и кол-во лайков и добавляю в список 
+https://sun9-70.userapi.com/impg/3oMuss4HP_4RV9kv3sHap74nAidD1KFIAXjt9Q/Ij-HWdjm-gY.jpg?size=2560x1600&quality=95&sign=6d94758ec12ad4cc16ab5602997edaae&c_uniq_tag=ccfVRlUiFpidF_6crdIWt6fzxNzjtzSUKPdMq-0X6jo&type=album, 0
+2023-05-16 17:34:20,490 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:20,609 INFO D:\git\NetologyCursBackup\photos\1_1.jpg загружено
+2023-05-16 17:34:20,609 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:20,724 INFO D:\git\NetologyCursBackup\photos\2_0.jpg загружено
+2023-05-16 17:34:20,724 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:20,842 INFO D:\git\NetologyCursBackup\photos\3_0.jpg загружено
+2023-05-16 17:34:20,842 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:20,975 INFO D:\git\NetologyCursBackup\photos\4_0.jpg загружено
+2023-05-16 17:34:20,976 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:21,098 INFO D:\git\NetologyCursBackup\photos\5_0.jpg загружено
+2023-05-16 17:34:21,099 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:21,264 INFO D:\git\NetologyCursBackup\photos\6_0.jpg загружено
+2023-05-16 17:34:21,264 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:21,404 INFO D:\git\NetologyCursBackup\photos\7_0.jpg загружено
+2023-05-16 17:34:21,404 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:21,596 INFO D:\git\NetologyCursBackup\photos\8_0.jpg загружено
+2023-05-16 17:34:21,596 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:21,751 INFO D:\git\NetologyCursBackup\photos\9_0.jpg загружено
+2023-05-16 17:34:21,751 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:21,884 INFO D:\git\NetologyCursBackup\photos\10_0.jpg загружено
+2023-05-16 17:34:21,885 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:21,984 INFO D:\git\NetologyCursBackup\photos\11_0.jpg загружено
+2023-05-16 17:34:21,984 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:22,116 INFO D:\git\NetologyCursBackup\photos\12_0.jpg загружено
+2023-05-16 17:34:22,116 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:22,324 INFO D:\git\NetologyCursBackup\photos\13_0.jpg загружено
+2023-05-16 17:34:22,324 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:22,444 INFO D:\git\NetologyCursBackup\photos\14_0.jpg загружено
+2023-05-16 17:34:22,444 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:22,636 INFO D:\git\NetologyCursBackup\photos\15_0.jpg загружено
+2023-05-16 17:34:22,636 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:22,810 INFO D:\git\NetologyCursBackup\photos\16_0.jpg загружено
+2023-05-16 17:34:22,810 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:22,922 INFO D:\git\NetologyCursBackup\photos\17_0.jpg загружено
+2023-05-16 17:34:22,922 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:23,048 INFO D:\git\NetologyCursBackup\photos\18_0.jpg загружено
+2023-05-16 17:34:23,048 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:23,169 INFO D:\git\NetologyCursBackup\photos\19_0.jpg загружено
+2023-05-16 17:34:23,169 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:23,302 INFO D:\git\NetologyCursBackup\photos\20_0.jpg загружено
+2023-05-16 17:34:23,302 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:23,473 INFO D:\git\NetologyCursBackup\photos\21_0.jpg загружено
+2023-05-16 17:34:23,473 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:23,595 INFO D:\git\NetologyCursBackup\photos\22_0.jpg загружено
+2023-05-16 17:34:23,595 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:23,735 INFO D:\git\NetologyCursBackup\photos\23_0.jpg загружено
+2023-05-16 17:34:23,735 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:23,874 INFO D:\git\NetologyCursBackup\photos\24_0.jpg загружено
+2023-05-16 17:34:23,874 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:23,999 INFO D:\git\NetologyCursBackup\photos\25_0.jpg загружено
+2023-05-16 17:34:23,999 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:24,137 INFO D:\git\NetologyCursBackup\photos\26_0.jpg загружено
+2023-05-16 17:34:24,137 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:24,291 INFO D:\git\NetologyCursBackup\photos\27_0.jpg загружено
+2023-05-16 17:34:24,291 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:24,431 INFO D:\git\NetologyCursBackup\photos\28_0.jpg загружено
+2023-05-16 17:34:24,432 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:24,677 INFO D:\git\NetologyCursBackup\photos\29_0.jpg загружено
+2023-05-16 17:34:24,677 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:24,790 INFO D:\git\NetologyCursBackup\photos\30_0.jpg загружено
+2023-05-16 17:34:24,790 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:24,938 INFO D:\git\NetologyCursBackup\photos\31_0.jpg загружено
+2023-05-16 17:34:24,938 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:25,057 INFO D:\git\NetologyCursBackup\photos\32_0.jpg загружено
+2023-05-16 17:34:25,057 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:25,174 INFO D:\git\NetologyCursBackup\photos\33_0.jpg загружено
+2023-05-16 17:34:25,175 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:25,339 INFO D:\git\NetologyCursBackup\photos\34_0.jpg загружено
+2023-05-16 17:34:25,339 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:25,484 INFO D:\git\NetologyCursBackup\photos\35_0.jpg загружено
+2023-05-16 17:34:25,484 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:25,632 INFO D:\git\NetologyCursBackup\photos\36_0.jpg загружено
+2023-05-16 17:34:25,633 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:25,817 INFO D:\git\NetologyCursBackup\photos\37_0.jpg загружено
+2023-05-16 17:34:25,817 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:26,036 INFO D:\git\NetologyCursBackup\photos\38_0.jpg загружено
+2023-05-16 17:34:26,037 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:26,199 INFO D:\git\NetologyCursBackup\photos\39_0.jpg загружено
+2023-05-16 17:34:26,199 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:26,377 INFO D:\git\NetologyCursBackup\photos\40_0.jpg загружено
+2023-05-16 17:34:26,377 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:26,556 INFO D:\git\NetologyCursBackup\photos\41_0.jpg загружено
+2023-05-16 17:34:26,557 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:26,702 INFO D:\git\NetologyCursBackup\photos\42_0.jpg загружено
+2023-05-16 17:34:26,702 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:26,831 INFO D:\git\NetologyCursBackup\photos\43_0.jpg загружено
+2023-05-16 17:34:26,832 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:26,952 INFO D:\git\NetologyCursBackup\photos\44_0.jpg загружено
+2023-05-16 17:34:26,952 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:27,110 INFO D:\git\NetologyCursBackup\photos\45_0.jpg загружено
+2023-05-16 17:34:27,111 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:27,270 INFO D:\git\NetologyCursBackup\photos\46_0.jpg загружено
+2023-05-16 17:34:27,270 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:27,412 INFO D:\git\NetologyCursBackup\photos\47_0.jpg загружено
+2023-05-16 17:34:27,412 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:27,613 INFO D:\git\NetologyCursBackup\photos\48_0.jpg загружено
+2023-05-16 17:34:27,614 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:27,795 INFO D:\git\NetologyCursBackup\photos\49_0.jpg загружено
+2023-05-16 17:34:27,795 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:27,932 INFO D:\git\NetologyCursBackup\photos\50_0.jpg загружено
+2023-05-16 17:34:27,932 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:28,083 INFO D:\git\NetologyCursBackup\photos\51_0.jpg загружено
+2023-05-16 17:34:28,084 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:28,184 INFO D:\git\NetologyCursBackup\photos\52_0.jpg загружено
+2023-05-16 17:34:28,184 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:28,344 INFO D:\git\NetologyCursBackup\photos\53_0.jpg загружено
+2023-05-16 17:34:28,345 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:28,520 INFO D:\git\NetologyCursBackup\photos\54_0.jpg загружено
+2023-05-16 17:34:28,521 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:28,678 INFO D:\git\NetologyCursBackup\photos\55_0.jpg загружено
+2023-05-16 17:34:28,678 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:28,846 INFO D:\git\NetologyCursBackup\photos\56_0.jpg загружено
+2023-05-16 17:34:28,846 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:29,015 INFO D:\git\NetologyCursBackup\photos\57_0.jpg загружено
+2023-05-16 17:34:29,016 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:29,159 INFO D:\git\NetologyCursBackup\photos\58_0.jpg загружено
+2023-05-16 17:34:29,160 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:29,339 INFO D:\git\NetologyCursBackup\photos\59_0.jpg загружено
+2023-05-16 17:34:29,339 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:29,519 INFO D:\git\NetologyCursBackup\photos\60_0.jpg загружено
+2023-05-16 17:34:29,520 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:29,652 INFO D:\git\NetologyCursBackup\photos\61_0.jpg загружено
+2023-05-16 17:34:29,652 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:29,839 INFO D:\git\NetologyCursBackup\photos\62_0.jpg загружено
+2023-05-16 17:34:29,839 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:29,967 INFO D:\git\NetologyCursBackup\photos\63_0.jpg загружено
+2023-05-16 17:34:29,967 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:30,084 INFO D:\git\NetologyCursBackup\photos\64_0.jpg загружено
+2023-05-16 17:34:30,084 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:30,234 INFO D:\git\NetologyCursBackup\photos\65_0.jpg загружено
+2023-05-16 17:34:30,234 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:30,423 INFO D:\git\NetologyCursBackup\photos\66_0.jpg загружено
+2023-05-16 17:34:30,424 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:30,573 INFO D:\git\NetologyCursBackup\photos\67_0.jpg загружено
+2023-05-16 17:34:30,573 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:30,736 INFO D:\git\NetologyCursBackup\photos\68_0.jpg загружено
+2023-05-16 17:34:30,737 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:30,873 INFO D:\git\NetologyCursBackup\photos\69_0.jpg загружено
+2023-05-16 17:34:30,874 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:30,965 INFO D:\git\NetologyCursBackup\photos\70_0.jpg загружено
+2023-05-16 17:34:30,965 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:31,098 INFO D:\git\NetologyCursBackup\photos\71_0.jpg загружено
+2023-05-16 17:34:31,098 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:31,413 INFO D:\git\NetologyCursBackup\photos\72_0.jpg загружено
+2023-05-16 17:34:31,413 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:31,659 INFO D:\git\NetologyCursBackup\photos\73_0.jpg загружено
+2023-05-16 17:34:31,659 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:31,791 INFO D:\git\NetologyCursBackup\photos\74_0.jpg загружено
+2023-05-16 17:34:31,791 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:31,967 INFO D:\git\NetologyCursBackup\photos\75_0.jpg загружено
+2023-05-16 17:34:31,968 INFO Скачиваю все фото из альбома в локальную папку
+2023-05-16 17:34:32,158 INFO D:\git\NetologyCursBackup\photos\76_0.jpg загружено
+2023-05-16 17:34:32,158 INFO Загрузка файлов на Яндекс Диск
+2023-05-16 17:34:32,158 INFO ЗагружаюD:\git\NetologyCursBackup\photos\10_0.jpg
+2023-05-16 17:34:33,606 INFO Файл D:\git\NetologyCursBackup\photos\10_0.jpg загружен в NetologyCursBackup/10_0.jpg
+2023-05-16 17:34:33,606 INFO ЗагружаюD:\git\NetologyCursBackup\photos\11_0.jpg
+2023-05-16 17:34:39,474 INFO Файл D:\git\NetologyCursBackup\photos\11_0.jpg загружен в NetologyCursBackup/11_0.jpg
+2023-05-16 17:34:39,474 INFO ЗагружаюD:\git\NetologyCursBackup\photos\12_0.jpg
+2023-05-16 17:34:41,164 INFO Файл D:\git\NetologyCursBackup\photos\12_0.jpg загружен в NetologyCursBackup/12_0.jpg
+2023-05-16 17:34:41,164 INFO ЗагружаюD:\git\NetologyCursBackup\photos\13_0.jpg
+2023-05-16 17:34:43,424 INFO Файл D:\git\NetologyCursBackup\photos\13_0.jpg загружен в NetologyCursBackup/13_0.jpg
+2023-05-16 17:34:43,424 INFO ЗагружаюD:\git\NetologyCursBackup\photos\14_0.jpg
+2023-05-16 17:34:48,184 INFO Файл D:\git\NetologyCursBackup\photos\14_0.jpg загружен в NetologyCursBackup/14_0.jpg
+2023-05-16 17:34:48,184 INFO ЗагружаюD:\git\NetologyCursBackup\photos\15_0.jpg
+2023-05-16 17:34:50,110 INFO Файл D:\git\NetologyCursBackup\photos\15_0.jpg загружен в NetologyCursBackup/15_0.jpg
+2023-05-16 17:34:50,110 INFO ЗагружаюD:\git\NetologyCursBackup\photos\16_0.jpg
+2023-05-16 17:34:55,624 INFO Файл D:\git\NetologyCursBackup\photos\16_0.jpg загружен в NetologyCursBackup/16_0.jpg
+2023-05-16 17:34:55,624 INFO ЗагружаюD:\git\NetologyCursBackup\photos\17_0.jpg
+2023-05-16 17:34:57,654 INFO Файл D:\git\NetologyCursBackup\photos\17_0.jpg загружен в NetologyCursBackup/17_0.jpg
+2023-05-16 17:34:57,654 INFO ЗагружаюD:\git\NetologyCursBackup\photos\18_0.jpg
+2023-05-16 17:34:59,792 INFO Файл D:\git\NetologyCursBackup\photos\18_0.jpg загружен в NetologyCursBackup/18_0.jpg
+2023-05-16 17:34:59,792 INFO ЗагружаюD:\git\NetologyCursBackup\photos\19_0.jpg
+2023-05-16 17:35:01,724 INFO Файл D:\git\NetologyCursBackup\photos\19_0.jpg загружен в NetologyCursBackup/19_0.jpg
+2023-05-16 17:35:01,724 INFO ЗагружаюD:\git\NetologyCursBackup\photos\1_1.jpg
+2023-05-16 17:35:03,096 INFO Файл D:\git\NetologyCursBackup\photos\1_1.jpg загружен в NetologyCursBackup/1_1.jpg
+2023-05-16 17:35:03,096 INFO ЗагружаюD:\git\NetologyCursBackup\photos\20_0.jpg
+2023-05-16 17:35:04,234 INFO Файл D:\git\NetologyCursBackup\photos\20_0.jpg загружен в NetologyCursBackup/20_0.jpg
+2023-05-16 17:35:04,234 INFO ЗагружаюD:\git\NetologyCursBackup\photos\21_0.jpg
+2023-05-16 17:35:06,134 INFO Файл D:\git\NetologyCursBackup\photos\21_0.jpg загружен в NetologyCursBackup/21_0.jpg
+2023-05-16 17:35:06,134 INFO ЗагружаюD:\git\NetologyCursBackup\photos\22_0.jpg
+2023-05-16 17:35:07,764 INFO Файл D:\git\NetologyCursBackup\photos\22_0.jpg загружен в NetologyCursBackup/22_0.jpg
+2023-05-16 17:35:07,764 INFO ЗагружаюD:\git\NetologyCursBackup\photos\23_0.jpg
+2023-05-16 17:35:09,247 INFO Файл D:\git\NetologyCursBackup\photos\23_0.jpg загружен в NetologyCursBackup/23_0.jpg
+2023-05-16 17:35:09,247 INFO ЗагружаюD:\git\NetologyCursBackup\photos\24_0.jpg
+2023-05-16 17:35:11,094 INFO Файл D:\git\NetologyCursBackup\photos\24_0.jpg загружен в NetologyCursBackup/24_0.jpg
+2023-05-16 17:35:11,094 INFO ЗагружаюD:\git\NetologyCursBackup\photos\25_0.jpg
+2023-05-16 17:35:12,354 INFO Файл D:\git\NetologyCursBackup\photos\25_0.jpg загружен в NetologyCursBackup/25_0.jpg
+2023-05-16 17:35:12,354 INFO ЗагружаюD:\git\NetologyCursBackup\photos\26_0.jpg
+2023-05-16 17:35:13,844 INFO Файл D:\git\NetologyCursBackup\photos\26_0.jpg загружен в NetologyCursBackup/26_0.jpg
+2023-05-16 17:35:13,844 INFO ЗагружаюD:\git\NetologyCursBackup\photos\27_0.jpg
+2023-05-16 17:35:16,414 INFO Файл D:\git\NetologyCursBackup\photos\27_0.jpg загружен в NetologyCursBackup/27_0.jpg
+2023-05-16 17:35:16,414 INFO ЗагружаюD:\git\NetologyCursBackup\photos\28_0.jpg
+2023-05-16 17:35:17,964 INFO Файл D:\git\NetologyCursBackup\photos\28_0.jpg загружен в NetologyCursBackup/28_0.jpg
+2023-05-16 17:35:17,964 INFO ЗагружаюD:\git\NetologyCursBackup\photos\29_0.jpg
+2023-05-16 17:35:20,074 INFO Файл D:\git\NetologyCursBackup\photos\29_0.jpg загружен в NetologyCursBackup/29_0.jpg
+2023-05-16 17:35:20,074 INFO ЗагружаюD:\git\NetologyCursBackup\photos\2_0.jpg
+2023-05-16 17:35:21,764 INFO Файл D:\git\NetologyCursBackup\photos\2_0.jpg загружен в NetologyCursBackup/2_0.jpg
+2023-05-16 17:35:21,764 INFO ЗагружаюD:\git\NetologyCursBackup\photos\30_0.jpg
+2023-05-16 17:35:23,194 INFO Файл D:\git\NetologyCursBackup\photos\30_0.jpg загружен в NetologyCursBackup/30_0.jpg
+2023-05-16 17:35:23,194 INFO ЗагружаюD:\git\NetologyCursBackup\photos\31_0.jpg
+2023-05-16 17:35:25,236 INFO Файл D:\git\NetologyCursBackup\photos\31_0.jpg загружен в NetologyCursBackup/31_0.jpg
+2023-05-16 17:35:25,236 INFO ЗагружаюD:\git\NetologyCursBackup\photos\32_0.jpg
+2023-05-16 17:35:27,250 INFO Файл D:\git\NetologyCursBackup\photos\32_0.jpg загружен в NetologyCursBackup/32_0.jpg
+2023-05-16 17:35:27,250 INFO ЗагружаюD:\git\NetologyCursBackup\photos\33_0.jpg
+2023-05-16 17:35:29,634 INFO Файл D:\git\NetologyCursBackup\photos\33_0.jpg загружен в NetologyCursBackup/33_0.jpg
+2023-05-16 17:35:29,634 INFO ЗагружаюD:\git\NetologyCursBackup\photos\34_0.jpg
+2023-05-16 17:35:31,194 INFO Файл D:\git\NetologyCursBackup\photos\34_0.jpg загружен в NetologyCursBackup/34_0.jpg
+2023-05-16 17:35:31,194 INFO ЗагружаюD:\git\NetologyCursBackup\photos\35_0.jpg
+2023-05-16 17:35:35,594 INFO Файл D:\git\NetologyCursBackup\photos\35_0.jpg загружен в NetologyCursBackup/35_0.jpg
+2023-05-16 17:35:35,594 INFO ЗагружаюD:\git\NetologyCursBackup\photos\36_0.jpg
+2023-05-16 17:35:37,164 INFO Файл D:\git\NetologyCursBackup\photos\36_0.jpg загружен в NetologyCursBackup/36_0.jpg
+2023-05-16 17:35:37,164 INFO ЗагружаюD:\git\NetologyCursBackup\photos\37_0.jpg
+2023-05-16 17:35:38,490 INFO Файл D:\git\NetologyCursBackup\photos\37_0.jpg загружен в NetologyCursBackup/37_0.jpg
+2023-05-16 17:35:38,490 INFO ЗагружаюD:\git\NetologyCursBackup\photos\38_0.jpg
+2023-05-16 17:35:40,994 INFO Файл D:\git\NetologyCursBackup\photos\38_0.jpg загружен в NetologyCursBackup/38_0.jpg
+2023-05-16 17:35:40,994 INFO ЗагружаюD:\git\NetologyCursBackup\photos\39_0.jpg
+2023-05-16 17:35:42,798 INFO Файл D:\git\NetologyCursBackup\photos\39_0.jpg загружен в NetologyCursBackup/39_0.jpg
+2023-05-16 17:35:42,798 INFO ЗагружаюD:\git\NetologyCursBackup\photos\3_0.jpg
+2023-05-16 17:35:45,486 INFO Файл D:\git\NetologyCursBackup\photos\3_0.jpg загружен в NetologyCursBackup/3_0.jpg
+2023-05-16 17:35:45,486 INFO ЗагружаюD:\git\NetologyCursBackup\photos\40_0.jpg
+2023-05-16 17:35:46,664 INFO Файл D:\git\NetologyCursBackup\photos\40_0.jpg загружен в NetologyCursBackup/40_0.jpg
+2023-05-16 17:35:46,664 INFO ЗагружаюD:\git\NetologyCursBackup\photos\41_0.jpg
+2023-05-16 17:35:48,574 INFO Файл D:\git\NetologyCursBackup\photos\41_0.jpg загружен в NetologyCursBackup/41_0.jpg
+2023-05-16 17:35:48,574 INFO ЗагружаюD:\git\NetologyCursBackup\photos\42_0.jpg
+2023-05-16 17:35:49,804 INFO Файл D:\git\NetologyCursBackup\photos\42_0.jpg загружен в NetologyCursBackup/42_0.jpg
+2023-05-16 17:35:49,804 INFO ЗагружаюD:\git\NetologyCursBackup\photos\43_0.jpg
+2023-05-16 17:35:51,134 INFO Файл D:\git\NetologyCursBackup\photos\43_0.jpg загружен в NetologyCursBackup/43_0.jpg
+2023-05-16 17:35:51,134 INFO ЗагружаюD:\git\NetologyCursBackup\photos\44_0.jpg
+2023-05-16 17:35:52,674 INFO Файл D:\git\NetologyCursBackup\photos\44_0.jpg загружен в NetologyCursBackup/44_0.jpg
+2023-05-16 17:35:52,674 INFO ЗагружаюD:\git\NetologyCursBackup\photos\45_0.jpg
+2023-05-16 17:35:54,254 INFO Файл D:\git\NetologyCursBackup\photos\45_0.jpg загружен в NetologyCursBackup/45_0.jpg
+2023-05-16 17:35:54,254 INFO ЗагружаюD:\git\NetologyCursBackup\photos\46_0.jpg
+2023-05-16 17:35:55,804 INFO Файл D:\git\NetologyCursBackup\photos\46_0.jpg загружен в NetologyCursBackup/46_0.jpg
+2023-05-16 17:35:55,804 INFO ЗагружаюD:\git\NetologyCursBackup\photos\47_0.jpg
+2023-05-16 17:35:57,659 INFO Файл D:\git\NetologyCursBackup\photos\47_0.jpg загружен в NetologyCursBackup/47_0.jpg
+2023-05-16 17:35:57,659 INFO ЗагружаюD:\git\NetologyCursBackup\photos\48_0.jpg
+2023-05-16 17:35:59,613 INFO Файл D:\git\NetologyCursBackup\photos\48_0.jpg загружен в NetologyCursBackup/48_0.jpg
+2023-05-16 17:35:59,613 INFO ЗагружаюD:\git\NetologyCursBackup\photos\49_0.jpg
+2023-05-16 17:36:01,694 INFO Файл D:\git\NetologyCursBackup\photos\49_0.jpg загружен в NetologyCursBackup/49_0.jpg
+2023-05-16 17:36:01,694 INFO ЗагружаюD:\git\NetologyCursBackup\photos\4_0.jpg
+2023-05-16 17:36:03,954 INFO Файл D:\git\NetologyCursBackup\photos\4_0.jpg загружен в NetologyCursBackup/4_0.jpg
+2023-05-16 17:36:03,954 INFO ЗагружаюD:\git\NetologyCursBackup\photos\50_0.jpg
+2023-05-16 17:36:05,273 INFO Файл D:\git\NetologyCursBackup\photos\50_0.jpg загружен в NetologyCursBackup/50_0.jpg
+2023-05-16 17:36:05,273 INFO ЗагружаюD:\git\NetologyCursBackup\photos\51_0.jpg
+2023-05-16 17:36:07,537 INFO Файл D:\git\NetologyCursBackup\photos\51_0.jpg загружен в NetologyCursBackup/51_0.jpg
+2023-05-16 17:36:07,537 INFO ЗагружаюD:\git\NetologyCursBackup\photos\52_0.jpg
+2023-05-16 17:36:11,762 INFO Файл D:\git\NetologyCursBackup\photos\52_0.jpg загружен в NetologyCursBackup/52_0.jpg
+2023-05-16 17:36:11,762 INFO ЗагружаюD:\git\NetologyCursBackup\photos\53_0.jpg
+2023-05-16 17:36:13,632 INFO Файл D:\git\NetologyCursBackup\photos\53_0.jpg загружен в NetologyCursBackup/53_0.jpg
+2023-05-16 17:36:13,632 INFO ЗагружаюD:\git\NetologyCursBackup\photos\54_0.jpg
+2023-05-16 17:36:15,037 INFO Файл D:\git\NetologyCursBackup\photos\54_0.jpg загружен в NetologyCursBackup/54_0.jpg
+2023-05-16 17:36:15,037 INFO ЗагружаюD:\git\NetologyCursBackup\photos\55_0.jpg
+2023-05-16 17:36:17,357 INFO Файл D:\git\NetologyCursBackup\photos\55_0.jpg загружен в NetologyCursBackup/55_0.jpg
+2023-05-16 17:36:17,357 INFO ЗагружаюD:\git\NetologyCursBackup\photos\56_0.jpg
+2023-05-16 17:36:18,885 INFO Файл D:\git\NetologyCursBackup\photos\56_0.jpg загружен в NetologyCursBackup/56_0.jpg
+2023-05-16 17:36:18,885 INFO ЗагружаюD:\git\NetologyCursBackup\photos\57_0.jpg
+2023-05-16 17:36:20,685 INFO Файл D:\git\NetologyCursBackup\photos\57_0.jpg загружен в NetologyCursBackup/57_0.jpg
+2023-05-16 17:36:20,685 INFO ЗагружаюD:\git\NetologyCursBackup\photos\58_0.jpg
+2023-05-16 17:36:22,411 INFO Файл D:\git\NetologyCursBackup\photos\58_0.jpg загружен в NetologyCursBackup/58_0.jpg
+2023-05-16 17:36:22,412 INFO ЗагружаюD:\git\NetologyCursBackup\photos\59_0.jpg
+2023-05-16 17:36:23,707 INFO Файл D:\git\NetologyCursBackup\photos\59_0.jpg загружен в NetologyCursBackup/59_0.jpg
+2023-05-16 17:36:23,707 INFO ЗагружаюD:\git\NetologyCursBackup\photos\5_0.jpg
+2023-05-16 17:36:26,926 INFO Файл D:\git\NetologyCursBackup\photos\5_0.jpg загружен в NetologyCursBackup/5_0.jpg
+2023-05-16 17:36:26,927 INFO ЗагружаюD:\git\NetologyCursBackup\photos\60_0.jpg
+2023-05-16 17:36:28,288 INFO Файл D:\git\NetologyCursBackup\photos\60_0.jpg загружен в NetologyCursBackup/60_0.jpg
+2023-05-16 17:36:28,288 INFO ЗагружаюD:\git\NetologyCursBackup\photos\61_0.jpg
+2023-05-16 17:36:29,706 INFO Файл D:\git\NetologyCursBackup\photos\61_0.jpg загружен в NetologyCursBackup/61_0.jpg
+2023-05-16 17:36:29,707 INFO ЗагружаюD:\git\NetologyCursBackup\photos\62_0.jpg
+2023-05-16 17:36:31,160 INFO Файл D:\git\NetologyCursBackup\photos\62_0.jpg загружен в NetologyCursBackup/62_0.jpg
+2023-05-16 17:36:31,161 INFO ЗагружаюD:\git\NetologyCursBackup\photos\63_0.jpg
+2023-05-16 17:36:32,747 INFO Файл D:\git\NetologyCursBackup\photos\63_0.jpg загружен в NetologyCursBackup/63_0.jpg
+2023-05-16 17:36:32,747 INFO ЗагружаюD:\git\NetologyCursBackup\photos\64_0.jpg
+2023-05-16 17:36:35,394 INFO Файл D:\git\NetologyCursBackup\photos\64_0.jpg загружен в NetologyCursBackup/64_0.jpg
+2023-05-16 17:36:35,394 INFO ЗагружаюD:\git\NetologyCursBackup\photos\65_0.jpg
+2023-05-16 17:36:37,641 INFO Файл D:\git\NetologyCursBackup\photos\65_0.jpg загружен в NetologyCursBackup/65_0.jpg
+2023-05-16 17:36:37,641 INFO ЗагружаюD:\git\NetologyCursBackup\photos\66_0.jpg
+2023-05-16 17:36:39,682 INFO Файл D:\git\NetologyCursBackup\photos\66_0.jpg загружен в NetologyCursBackup/66_0.jpg
+2023-05-16 17:36:39,682 INFO ЗагружаюD:\git\NetologyCursBackup\photos\67_0.jpg
+2023-05-16 17:36:42,032 INFO Файл D:\git\NetologyCursBackup\photos\67_0.jpg загружен в NetologyCursBackup/67_0.jpg
+2023-05-16 17:36:42,032 INFO ЗагружаюD:\git\NetologyCursBackup\photos\68_0.jpg
+2023-05-16 17:36:43,453 INFO Файл D:\git\NetologyCursBackup\photos\68_0.jpg загружен в NetologyCursBackup/68_0.jpg
+2023-05-16 17:36:43,454 INFO ЗагружаюD:\git\NetologyCursBackup\photos\69_0.jpg
+2023-05-16 17:36:44,683 INFO Файл D:\git\NetologyCursBackup\photos\69_0.jpg загружен в NetologyCursBackup/69_0.jpg
+2023-05-16 17:36:44,683 INFO ЗагружаюD:\git\NetologyCursBackup\photos\6_0.jpg
+2023-05-16 17:36:46,086 INFO Файл D:\git\NetologyCursBackup\photos\6_0.jpg загружен в NetologyCursBackup/6_0.jpg
+2023-05-16 17:36:46,087 INFO ЗагружаюD:\git\NetologyCursBackup\photos\70_0.jpg
+2023-05-16 17:36:47,464 INFO Файл D:\git\NetologyCursBackup\photos\70_0.jpg загружен в NetologyCursBackup/70_0.jpg
+2023-05-16 17:36:47,464 INFO ЗагружаюD:\git\NetologyCursBackup\photos\71_0.jpg
+2023-05-16 17:36:48,857 INFO Файл D:\git\NetologyCursBackup\photos\71_0.jpg загружен в NetologyCursBackup/71_0.jpg
+2023-05-16 17:36:48,857 INFO ЗагружаюD:\git\NetologyCursBackup\photos\72_0.jpg
+2023-05-16 17:36:50,591 INFO Файл D:\git\NetologyCursBackup\photos\72_0.jpg загружен в NetologyCursBackup/72_0.jpg
+2023-05-16 17:36:50,591 INFO ЗагружаюD:\git\NetologyCursBackup\photos\73_0.jpg
+2023-05-16 17:36:53,136 INFO Файл D:\git\NetologyCursBackup\photos\73_0.jpg загружен в NetologyCursBackup/73_0.jpg
+2023-05-16 17:36:53,136 INFO ЗагружаюD:\git\NetologyCursBackup\photos\74_0.jpg
+2023-05-16 17:36:55,968 INFO Файл D:\git\NetologyCursBackup\photos\74_0.jpg загружен в NetologyCursBackup/74_0.jpg
+2023-05-16 17:36:55,968 INFO ЗагружаюD:\git\NetologyCursBackup\photos\75_0.jpg
+2023-05-16 17:36:58,043 INFO Файл D:\git\NetologyCursBackup\photos\75_0.jpg загружен в NetologyCursBackup/75_0.jpg
+2023-05-16 17:36:58,043 INFO ЗагружаюD:\git\NetologyCursBackup\photos\76_0.jpg
+2023-05-16 17:36:59,660 INFO Файл D:\git\NetologyCursBackup\photos\76_0.jpg загружен в NetologyCursBackup/76_0.jpg
+2023-05-16 17:36:59,660 INFO ЗагружаюD:\git\NetologyCursBackup\photos\7_0.jpg
+2023-05-16 17:37:01,275 INFO Файл D:\git\NetologyCursBackup\photos\7_0.jpg загружен в NetologyCursBackup/7_0.jpg
+2023-05-16 17:37:01,275 INFO ЗагружаюD:\git\NetologyCursBackup\photos\8_0.jpg
+2023-05-16 17:37:03,146 INFO Файл D:\git\NetologyCursBackup\photos\8_0.jpg загружен в NetologyCursBackup/8_0.jpg
+2023-05-16 17:37:03,146 INFO ЗагружаюD:\git\NetologyCursBackup\photos\9_0.jpg
+2023-05-16 17:37:05,238 INFO Файл D:\git\NetologyCursBackup\photos\9_0.jpg загружен в NetologyCursBackup/9_0.jpg
+2023-05-16 17:37:05,238 INFO Время выполнения: 165.39603757858276 секунд
+2023-05-16 17:37:05,238 INFO ---End execute---
